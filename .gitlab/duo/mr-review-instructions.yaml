@@ -4,4 +4,4 @@ instructions:
     fileFilters:
       - "**/*"
     instructions: |
-      Please apply the guidelines in ai/GLOBAL_GUIDELINES.md
+      First, read the ai/global_guidelines.md
