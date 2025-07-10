@@ -1,4 +1,8 @@
 
+# Codex Project
+
+This repository provides guidelines, documentation, and configuration for working with AI agents. It serves as the central source of truth for best practices, shared settings, and agent-specific instructions to help developers set up, manage, and extend AI agents effectively.
+
 ### AI Folder Description
 
 The **`ai/`** folder contains all the guidelines and general information needed to work with AI agents. It is the
