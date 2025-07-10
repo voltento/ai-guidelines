@@ -1,0 +1,7 @@
+# Auto-generated adapter for GitLab Duo Code Review
+instructions:
+  - name: Global Repo Rules
+    fileFilters:
+      - "**/*"
+    instructions: |
+      Please apply the guidelines in ai/GLOBAL_GUIDELINES.md

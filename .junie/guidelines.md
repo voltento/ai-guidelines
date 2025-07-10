@@ -1,0 +1,1 @@
+- First, read the [global_guidelines.md](../ai/global_guidelines.md)
