@@ -1,7 +1,5 @@
 
-# Codex Project
-
-This repository provides guidelines, documentation, and configuration for working with AI agents. It serves as the central source of truth for best practices, shared settings, and agent-specific instructions to help developers set up, manage, and extend AI agents effectively.
+This repository provides guidelines, documentation, and configuration for working with AI agents. It serves as the central source of truth for best practices, shared settings, and agent-specific instructions to help developers set up, manage, and extend AI agents effectively. Supported agents: Codex, Junie, Copilot, Duo, Cursor.
 
 ### AI Folder Description
 
