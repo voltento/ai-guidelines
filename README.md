@@ -11,11 +11,11 @@ primary place to look when setting up or managing agents.
 ### How to Use
 
 1. **Guidelines**: All important instructions for using AI agents are stored in
-   the [global_guidelines.md](ai/global_guidelines.md) file. Refer to this file for detailed steps and information.
+   the [global_guidelines.md](ai/global_guidelines.md) file. Add general instructions to this file.
 
 2. **General Configuration**: Any shared configurations for AI agents are also included here. Check the folder if you
    need common settings for multiple agents.
 
 3. **Agent-Specific Configuration**:
   - Each agent has its own folder.
-  - If an agent needs specific settings, those are kept in its dedicated folder.
+  - If an agent needs specific settings, those are added/kept in its dedicated folder.
