@@ -1,4 +1,3 @@
-
 This repository provides guidelines, documentation, and configuration for working with AI agents. It serves as the central source of truth for best practices, shared settings, and agent-specific instructions to help developers set up, manage, and extend AI agents effectively. Supported agents: Codex, Junie, Copilot, Duo, Cursor.
 
 ### AI Folder Description
@@ -17,3 +16,6 @@ primary place to look when setting up or managing agents.
 3. **Agent-Specific Configuration**:
   - Each agent has its own folder.
   - If an agent needs specific settings, those are added/kept in its dedicated folder.
+
+## How to use
+Copy all the files into your project. Call your beloved AI agent, for instane: "review the latest commit".
